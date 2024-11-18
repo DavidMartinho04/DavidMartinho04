@@ -23,7 +23,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![C#](https://img.shields.io/badge/-C%23-05122A?style=for-the-badge&logo=csharp&logoColor=239120)
+![C#](https://img.shields.io/badge/-C%23-05122A?style=for-the-badge&logo=c%23&logoColor=239120)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![VB.NET](https://img.shields.io/badge/-VB.NET-05122A?style=for-the-badge&logo=.net&logoColor=512BD4)
 
