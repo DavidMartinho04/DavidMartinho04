@@ -19,7 +19,7 @@
 
 ### **Linguagens de Programação**
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=for-the-badge&logo=csharp&logoColor=239120)
+![C#](https://img.shields.io/badge/-C%23-05122A?style=for-the-badge&logo=csharp&logoColor=239120)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -35,6 +35,8 @@
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=for-the-badge&logo=express&logoColor=000)
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&logo=angular&logoColor=DD0031)
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### **Bases de Dados**
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=4479A1)
@@ -64,6 +66,6 @@
 
 ## 📫 Contacto
 
-- ✉️ Email: davidmartinho1235@gmail.com
+- ✉️ Email: davidmartinho1235@gmail.com  
 - 🔗 LinkedIn: [David Martinho](https://www.linkedin.com/in/davidmartinho1235/)  
 - 📍 Localização: Sequeira, Braga
