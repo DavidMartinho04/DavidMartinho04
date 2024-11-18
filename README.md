@@ -1,7 +1,17 @@
-# 👋 Olá, eu sou o David Martinho!  
+# 👋 Olá, Eu sou o David Martinho!
 
-🎓 Estudante do 3º ano de **Engenharia de Sistemas Informáticos** no Instituto Politécnico do Cávado e do Ave.  
-Tenho paixão por tecnologia, desenvolvimento de software e criar soluções inovadoras para problemas do mundo real.
+🎓 Estudante do 3º ano de **Engenharia de Sistemas Informáticos** no Instituto Politécnico do Cávado e do Ave. Tenho paixão por tecnologia, desenvolvimento de software e criar soluções inovadoras para problemas do mundo real.
+
+---
+
+## 🧑‍💻 Sobre Mim
+
+- 📍 Vivo em Sequeira, Braga.
+- 🌱 Atualmente, estou focado em **aplicações mobile** e **desenvolvimento web**.
+- 💼 Experiência prática:
+  - 8 meses de estágio na **Bosch**, trabalhando no desenvolvimento de software e manutenção de bases de dados.
+  - Curso Técnico de Gestão e Programação de Sistemas Informáticos (TGPSI).
+  - Licenciatura em Engenharia de Sistemas Informáticos.
 
 ---
 
@@ -46,14 +56,14 @@ Tenho paixão por tecnologia, desenvolvimento de software e criar soluções ino
 
 ## 🌟 Interesses e Hobbies
 
-- 🤖 Tecnologia e Inovação  
-- ⚽ Desporto e Artes  
-- 🎥 Filmes, Séries e Viagens  
+- 🤖 Tecnologia e Inovação
+- ⚽ Desporto e Artes
+- 🎥 Filmes, Séries e Viagens
 
 ---
 
 ## 📫 Contacto
 
-- ✉️ Email: davidmartinho1235@gmail.com  
+- ✉️ Email: davidmartinho1235@gmail.com
 - 🔗 LinkedIn: [David Martinho](https://www.linkedin.com/in/davidmartinho1235/)  
 - 📍 Localização: Sequeira, Braga
