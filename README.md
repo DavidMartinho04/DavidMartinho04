@@ -1,4 +1,4 @@
-# 👋 Olá, sou o Gonçalo Costa!  
+# 👋 Olá, eu sou o David Martinho!  
 
 🎓 Estudante do 3º ano de **Engenharia de Sistemas Informáticos** no Instituto Politécnico do Cávado e do Ave.  
 Tenho paixão por tecnologia, desenvolvimento de software e criar soluções inovadoras para problemas do mundo real.
