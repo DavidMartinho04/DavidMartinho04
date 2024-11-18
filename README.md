@@ -1,45 +1,39 @@
-# 👋 Olá!
+# 👋 Olá, sou o Gonçalo Costa!  
 
-🎓 Estudante do 3º ano de **Engenharia de Sistemas Informáticos** no Instituto Politécnico do Cávado e do Ave. Tenho paixão por tecnologia, desenvolvimento de software e criar soluções inovadoras para problemas do mundo real.
-
----
-
-## 🧑‍💻 Sobre Mim
-
-- 📍 Vivo em Sequeira, Braga.
-- 🌱 Atualmente, estou focado em **aplicações mobile** e **desenvolvimento web**.
-- 💼 Experiência prática:
-  - 8 meses de estágio na **Bosch**, trabalhando no desenvolvimento de software e manutenção de bases de dados.
-  - Curso Técnico de Gestão e Programação de Sistemas Informáticos (TGPSI).
-  - Licenciatura em Engenharia de Sistemas Informáticos.
+🎓 Estudante do 3º ano de **Engenharia de Sistemas Informáticos** no Instituto Politécnico do Cávado e do Ave.  
+Tenho paixão por tecnologia, desenvolvimento de software e criar soluções inovadoras para problemas do mundo real.
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Tecnologias e Ferramentas
 
 ### **Linguagens de Programação**
-<div align="center">
-  <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=A8B9CC" alt="C" />
-  <img src="https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=239120" alt="C#" />
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4" alt="PHP" />
-  <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=336791" alt="SQL" />
-  <img src="https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=4EAA25" alt="Bash" />
-  <img src="https://img.shields.io/badge/-VB.NET-05122A?style=flat&logo=.net&logoColor=512BD4" alt="VB.NET" />
-</div>
+![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=for-the-badge&logo=csharp&logoColor=239120)
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php&logoColor=777BB4)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
+![VB.NET](https://img.shields.io/badge/-VB.NET-05122A?style=for-the-badge&logo=.net&logoColor=512BD4)
 
 ### **Desenvolvimento Web**
-- **Front-end:** HTML5, CSS3 (Bootstrap, Tailwind)
-- **Back-end:** Node.js, Express, Firebase, MySQL
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=for-the-badge&logo=express&logoColor=000)
 
 ### **Bases de Dados**
-- Relacionais: MySQL, SQL Server, PostgreSQL
-- Não Relacionais: Firebase
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
 ### **Sistemas Operativos**
-- Windows & Linux (Ubuntu)
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows&logoColor=0078D6)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 ---
 
@@ -52,14 +46,14 @@
 
 ## 🌟 Interesses e Hobbies
 
-- 🤖 Tecnologia e Inovação
-- ⚽ Desporto e Artes
-- 🎥 Filmes, Séries e Viagens
+- 🤖 Tecnologia e Inovação  
+- ⚽ Desporto e Artes  
+- 🎥 Filmes, Séries e Viagens  
 
 ---
 
 ## 📫 Contacto
 
-- ✉️ Email: davidmartinho1235@gmail.com
+- ✉️ Email: davidmartinho1235@gmail.com  
 - 🔗 LinkedIn: [David Martinho](https://www.linkedin.com/in/davidmartinho1235/)  
 - 📍 Localização: Sequeira, Braga
