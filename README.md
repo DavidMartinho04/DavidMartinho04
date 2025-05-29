@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 Sobre Mim
 
-- 📍 Vivo em Sequeira, Braga.
+- 📍 Vivo em Braga.
 - 🌱 Atualmente, estou focado em **aplicações mobile** e **desenvolvimento web**.
 - 💼 Experiência prática:
   - 8 meses de estágio na **Bosch**, trabalhando no desenvolvimento de software e manutenção de bases de dados.
