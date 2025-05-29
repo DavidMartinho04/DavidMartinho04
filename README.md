@@ -7,11 +7,12 @@
 ## 🧑‍💻 Sobre Mim
 
 - 📍 Vivo em Braga.
-- 🌱 Atualmente, estou focado em **aplicações mobile** e **desenvolvimento web**.
+- 🌱 Atualmente, estou focado em **bases de dados** e **desenvolvimento web**.
 - 💼 Experiência prática:
   - 8 meses de estágio na **Bosch**, trabalhando no desenvolvimento de software e manutenção de bases de dados.
   - Curso Técnico de Gestão e Programação de Sistemas Informáticos (TGPSI).
   - Licenciatura em Engenharia de Sistemas Informáticos.
+  - 4 meses de estágio na **APTIV**, com foco no desenvolvimento de software para gestão de operações.
 
 ---
 
@@ -70,4 +71,4 @@
 
 - ✉️ Email: davidmartinho1235@gmail.com  
 - 🔗 LinkedIn: [David Martinho](https://www.linkedin.com/in/davidmartinho1235/)  
-- 📍 Localização: Sequeira, Braga
+- 📍 Localização: Braga
