@@ -10,9 +10,10 @@
 - 🌱 Atualmente, estou focado em **bases de dados** e **desenvolvimento web**.
 - 💼 Experiência prática:
   - 8 meses de estágio na **Bosch**, trabalhando no desenvolvimento de software e manutenção de bases de dados.
+  - 4 meses de estágio na **APTIV**, com foco no desenvolvimento de software para gestão de operações.
   - Curso Técnico de Gestão e Programação de Sistemas Informáticos (TGPSI).
   - Licenciatura em Engenharia de Sistemas Informáticos.
-  - 4 meses de estágio na **APTIV**, com foco no desenvolvimento de software para gestão de operações.
+ 
 
 ---
 
